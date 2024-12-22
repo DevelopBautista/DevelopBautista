@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevelopBautista
-- 👀 I’m interested in java(all)
+- 👀 my skills: java,php,js,html,css,mysql
 - 🌱 I’m currently learning myself
 - 💞️ I’m looking to collaborate on where i can 
 - 📫 How to reach me ...
